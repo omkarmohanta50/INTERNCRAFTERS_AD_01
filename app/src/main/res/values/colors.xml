@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#4B5EFC</color>-->
+<!--    <color name="colorButtonMedium">#4E505F</color>-->
+<!--    <color name="colorButtonLow">#E2F38</color>-->
+<!--    <color name="color_86">#17171C</color>-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorButtonLow">#1F5959</color>
+<!--    <color name="color_86">#050B0A</color>-->
+    <color name="color_86">#131111</color>
+    <color name="colorButtonMedium">#214C61</color>
+</resources>
